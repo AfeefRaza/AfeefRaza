@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AfeefRaza
-- 👀 I’m interested in Python Programming and Web development
-- 🌱 I’m currently learning Python Programming
-- 💞️ I’m looking to collaborate on Learning Together
+- 👀 I’m interested in React.js and Front-end development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on a project related to React.js
+- 
 - 📫 How to reach me just dm me
 
 
